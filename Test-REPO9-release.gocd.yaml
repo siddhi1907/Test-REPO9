@@ -6,7 +6,7 @@ pipelines:
     lock_behavior: none
     display_order: -1
     materials:
-      git:
+      Test-REPO9:
         git: https://github.com/siddhi1907/Test-REPO9.git
         shallow_clone: false
         auto_update: true
